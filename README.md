@@ -1,6 +1,6 @@
 # Certificate Generator for Course Completion
 
-This is the junior students from the **Department of Information and Communication Engineering** at the **Institute of Technology of Cambodia** for successfully finishing the "Database and MySQL Crash Course" as part of the “GIC Vacation Crash Course 2025”.
+This is the junior students certificate of completion from the **Department of Information and Communication Engineering** at the **Institute of Technology of Cambodia** for successfully finishing the "Database and MySQL Crash Course" as part of the “GIC Vacation Crash Course 2025”.
 
 **Live Demo:** [**https://your-username.github.io/Course\_Completion/**](https://www.google.com/search?q=https://your-username.github.io/Course_Completion/)
 *(Replace `your-username` with your actual GitHub username.)*
