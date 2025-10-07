@@ -3,6 +3,7 @@ import jsPDF from 'jspdf';
 import html2canvas from 'html2canvas';
 import Header from './header.jsx';
 import Template from './template.jsx';
+import Footer from './footer.jsx'
 
 export default function Candidate({ name }) {
   // Create a ref to attach to the certificate DOM element
@@ -50,6 +51,7 @@ export default function Candidate({ name }) {
         <div className="certificate-inner">
           <Header />
           <Template name={name} />
+          <Footer/>
         </div>
       </section>
     </div>

@@ -238,7 +238,7 @@ body {
 
 .signature-block {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   width: 85%;
   margin: 0 auto;
 }
@@ -265,6 +265,23 @@ body {
   font-size: 1rem;
   font-family: var(--font-heading);
   font-weight: 700;
+}
+
+.signature {
+  position: relative;
+}
+
+.signature-image {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 20px;
+  width: 250px;
+  height: auto;
+}
+
+.signature-line {
+  margin-top: -20px;
 }
 
 .certificate-header,
