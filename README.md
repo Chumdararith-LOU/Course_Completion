@@ -28,7 +28,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/Course_Completion.git
+    git clone [https://github.com/your-username/Course_Completion.git](https://github.com/Chumdararith-LOU/Course_Completion.git)
     ```
 2.  **Navigate to the project directory**:
     ```bash
