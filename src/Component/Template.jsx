@@ -5,7 +5,7 @@ export default function Template({ name }) {
       <p className="presented-to">This certificate is proudly awarded to</p>
       <h1 className="recipient-name">{name}</h1>
       <p className="certificate-text">
-        You have successfully fulfilled all requirements and completed the
+        You have successfully fulfilled all the requirements and completed the
         intensive training for the <span class="Crash-Course">Database and MySQL</span> course as part of the <span class="Crash-Course">“GIC
         Vacation Crash Course 2025”</span>. This certificate is awarded by the
         Department of Information and Communication Engineering in recognition
