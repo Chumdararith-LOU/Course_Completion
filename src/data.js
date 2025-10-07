@@ -10,7 +10,7 @@ export const juniorNames = [
   'EAM Viracroth',
   'Khan Chanthana',
   'La sitha',
-  'CHAMROUEN Panhavath',
+  'CHAMROEUN PANHAVATH',
   'Chea sokkimheng',
   'Meng Sokleng',
   'SUN SOVISAL',
