@@ -8,7 +8,7 @@ export default function Footer() {
           <img src={signature} alt="Signature" className="signature-image" />
           <p className="signature-line"></p>
           <p>
-            <strong>Ms. Seak Leng</strong>
+            <strong>Ms. SEAK Leng</strong>
           </p>
           <p>Deputy Director of the Department of GIC</p>
         </div>
