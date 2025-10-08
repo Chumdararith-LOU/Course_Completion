@@ -10,7 +10,7 @@ export default function Footer() {
           <p>
             <strong>Ms. SEAK Leng</strong>
           </p>
-          <p>Deputy Director of the Department of GIC</p>
+          <p>Deputy Head of the Department of GIC</p>
         </div>
       </div>
     </footer>
